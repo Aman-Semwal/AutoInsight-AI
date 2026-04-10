@@ -1,4 +1,4 @@
-# AutoInsight
+# AutoInsight - AI
 
 **AutoInsight** is an AI-powered data visualization and analytics platform that transforms raw datasets into interactive dashboards and automatically generates actionable insights.
 
